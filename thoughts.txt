@@ -1,5 +1,0 @@
-maybe add gmail integration?
-
-Maybe make ppl use their own keys? 
-
-Works with my cal, make it fully external and then follow commands again (delete dist first)
